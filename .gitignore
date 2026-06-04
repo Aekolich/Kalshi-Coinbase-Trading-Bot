@@ -1,0 +1,7 @@
+keys.env
+First.txt
+*.pem
+__pycache__/
+.vscode/
+*.csv
+*.pth
